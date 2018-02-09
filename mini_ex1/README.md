@@ -5,9 +5,8 @@
 #
 #
 ## My code process:
-This coding process has been my first of many to come, and because of this I didn't really structurerize my steps from the beginning till the end as I did not know much about the possibilities of P5.js at this state. In the beginning I was just fascinated by the idea of working with 3D modelling in a webbrowser which led the end result - I fancy astronomi as well.
+This coding process has been my first of many to come, and because of this I didn't really structurerize my steps from the beginning till the end as I did not know much about the possibilities of P5.js at this state. In the beginning I was just fascinated by the idea of working with 3D modelling in a webbrowser which led the to end result. In the beginning I searched the internet for car models in the format of objects (obj.) as I read on the following site https://p5js.org/reference/ that this format is understandable by p5.js. Unfortunately I had a tough time finding cars so I decided to use more common shapes that would not need to be imported. 
 
-To be honest I can't really remember entirely what I have been doing in my process.
 
 
 Describe your first independent coding process (in relation to thinking, reading, copying, modifying, writing, uploading, sharing, commenting code)
