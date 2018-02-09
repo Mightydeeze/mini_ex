@@ -4,15 +4,24 @@
 #### [Link to my program:](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex1/Excercises/empty-example/index.html)
 #
 #
-## :
+## My code process:
+This coding process has been my first of many to come, and because of this I didn't really structurerize my steps from the beginning till the end as I did not know much about the possibilities of P5.js at this state. In the beginning I was just fascinated by the idea of working with 3D modelling in a webbrowser which led the end result - I fancy astronomi as well.
+
+To be honest I can't really remember entirely what I have been doing in my process.
+
 
 Describe your first independent coding process (in relation to thinking, reading, copying, modifying, writing, uploading, sharing, commenting code)
+
+
+
 
 How your coding process is differ or similar to reading and writing text? (You may also reflect upon Annette Vee's text on coding literacy)
 What might be the potential and possibility of coding practice?
 
 
+
 First you describe what is the work, what are the elements in the work? like what you have seen, what you have experienced and what syntax he/she has used.
+
 
 What is the emphasis? What does the work express? What does this work say or mean to you? How would you interpretethe work?
 Do you like this program, and Why? and which aspect do you like the most?
