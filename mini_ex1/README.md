@@ -24,21 +24,21 @@ To see my work click down bellow.
 
   for (var i = -1; i < 20; i++) {
   
-    for (var j = -2; j < 20; j++) {
+  for (var j = -2; j < 20; j++) {
    
-      push();
+  push();
    
-      translate(i * 160, 0, j * 150);
+  translate(i * 160, 0, j * 150);
    
-      c = color('#222222');
+  c = color('#222222');
    
-      fill(c); 
+  fill(c); 
    
-      noStroke();
+  noStroke();
    
-      sphere(5, 40, 40);
+  sphere(5, 40, 40);
    
-      pop();
+  pop();
    
   camera(750, 10, sin(frameCount * 0.0009) * 600, 0, -200, 200, 0, 4, 0);
   
