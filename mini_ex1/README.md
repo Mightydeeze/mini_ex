@@ -7,8 +7,8 @@ The following project is a virtual representation of floating spheres in an open
 To see my work click down bellow.
 #### [Space](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex1/Excercises/empty-example/index.html)
 #
-#### The used code:
-function setup() {
+## The used code:
+#### function setup() {
   
   createCanvas(1600, 1000, WEBGL);
   
@@ -17,44 +17,43 @@ function setup() {
   var cameraZ = height / 2.0 / tan(fov / 2.0);
  
   perspective(60 / 180 * PI, width / height, cameraZ * 0.1, cameraZ * 10); }
-  ####
-function draw() {
-####
+  
+#### function draw() {
+
   background('brown');
-####
+
   for (var i = -1; i < 20; i++) {
-  ####
+  
     for (var j = -2; j < 20; j++) {
-   ####
+   
       push();
-   ####
+   
       translate(i * 160, 0, j * 150);
-   ####
+   
       c = color('#222222');
-   ####
-      fill(c); // Use 'c' as fill color
-   ####
+   
+      fill(c); 
+   
       noStroke();
-   ####
+   
       sphere(5, 40, 40);
-   ####
+   
       pop();
-   ####
-      //move the camera in a sin wave
-   ####
+   
   camera(750, 10, sin(frameCount * 0.0009) * 600, 0, -200, 200, 0, 4, 0);
-  ####
-  var c = color('orange'); // Define color 'c'
-  ####
-  fill(c); // Use color variable 'c' as fill color
-  ####
-  noStroke(); // Don't draw a stroke around shapes
-  ####
+  
+  var c = color('orange'); 
+  
+  fill(c); 
+  
+  noStroke(); 
+  
 sphere(150);
-####
+
     }
-####
+  
   }
+  #
 #### My code process:
 This coding process has been my first of many to come, and because of this I didn't really structurerize my steps from the beginning till the end as I did not know much about the possibilities of P5.js at this state. In the beginning I was just fascinated by the idea of working with 3D modelling in a webbrowser which led the to end result. In the beginning I searched the internet for car models in the format of objects (obj.) as this format is understandable by p5.js. Unfortunately I had a tough time finding cars so I decided to use more common shapes that would not need to be imported. 
 #
