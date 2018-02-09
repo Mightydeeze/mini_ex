@@ -19,9 +19,9 @@ My next thought became to make a fully functional solar system with planets in o
 
 3. Then I deleted the 'OrbitControl();' because I didn't want the viewer to control the angle of perspective.
 
-4. To move the camera I made use of the function [camera()](https://p5js.org/reference/#/p5/camera) with different numbers that made the camera travel further and with a slower speed. 
+4. To move the camera I made use of the function ['camera()'](https://p5js.org/reference/#/p5/camera) with different numbers that made the camera travel further and with a slower speed. 
 
-5. I gave color to the Spheres with the function [color()](https://p5js.org/reference/#/p5/color) and the background.
+5. I gave color to the Spheres with the function ['color()'](https://p5js.org/reference/#/p5/color) and the background.
 
 6. I made a bigger sphere as a sun and gave it color as well.
 #
