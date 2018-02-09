@@ -3,8 +3,6 @@
 ![alt text](mini_ex1.3.png "Alternative Abstract Solarsystem")
 #### Short introduction:
 The following project is a virtual representation of floating spheres in an open space. It might look to you as a solar system of some kind - in this case my work has succeeded. The spheres are comepletely still while the camera is moving slowly in a sinus curve which makes it seem like the spheres are moving although they are not.
-You can enjoy my work with some Space music if you like: 
-#### --> https://www.youtube.com/watch?v=NDJn0SQehb4 <--
 #
 To see my work click bellow.
 #### [-->Here<--](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex1/Excercises/empty-example/index.html)
