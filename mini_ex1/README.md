@@ -2,9 +2,8 @@
 #### Screenshot of mini_ex1:
 ![alt text](mini_ex1.3.png "Alternative Abstract Solarsystem")
 #### Short introduction:
-The following project is .....................................
-#### The following link includes music:
-#### [>>>Link to my program<<<](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex1/Excercises/empty-example/index.html)
+The following project is a virtual representation of floating spheres in an open space. It may look like a solar system of some kind - in this case my work has somehow succeeded. The spheres are comepletely still while the camera is moving slowly in a sinus curve which makes it seem like spheres are moving although they are not. 
+#### [>>>Here is a Link to my program<<<](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex1/Excercises/empty-example/index.html)
 #
 #### My code process:
 This coding process has been my first of many to come, and because of this I didn't really structurerize my steps from the beginning till the end as I did not know much about the possibilities of P5.js at this state. In the beginning I was just fascinated by the idea of working with 3D modelling in a webbrowser which led the to end result. In the beginning I searched the internet for car models in the format of objects (obj.) as I read on the following site https://p5js.org/reference/ that this format is understandable by p5.js. Unfortunately I had a tough time finding cars so I decided to use more common shapes that would not need to be imported. 
