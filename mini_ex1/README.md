@@ -1,4 +1,5 @@
-# mini_ex1 - Alternative Abstract Solarsystem by Frederik Ditlev Christensen
+# mini_ex1:
+## Alternative Abstract Solarsystem by Frederik Ditlev Christensen
 #### Screenshot of mini_ex1:
 ![alt text](mini_ex1.3.png "Alternative Abstract Solarsystem")
 #### Short introduction:
