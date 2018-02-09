@@ -77,7 +77,7 @@ sphere(150);
   
   }
   #
-## Best regards
+ Best regards
 #### Frederik Ditlev Christensen
 
 
