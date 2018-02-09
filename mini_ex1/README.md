@@ -12,7 +12,7 @@ This coding process has been my first of many to come, and because of this I did
 #### The steps in making the program (sort of):
 My next thought became to make a fully functional solar system with planets in orbit, but I simply couldn't find the right formulars so I came up with other alternatives. 
 
-1. First I made a canvas in 3D like so: createCanvas(1600,1000,WEBGl)
+1. First I made a canvas in 3D like so: createCanvas(1600,1000,WEBGL)
 
 2. Next I copied the function ['perspective()'](https://p5js.org/reference/#/p5/perspective) from p5js.org, changed the boxes into spheres and modified the numbers to make more rows and bigger spaces between them. 
 
@@ -24,7 +24,8 @@ My next thought became to make a fully functional solar system with planets in o
 
 6. I made a bigger sphere as a sun and gave it color as well.
 #
-####
+#### Coding compared to writing text:
+
 
 How your coding process is differ or similar to reading and writing text? (You may also reflect upon Annette Vee's text on coding literacy)
 What might be the potential and possibility of coding practice?
