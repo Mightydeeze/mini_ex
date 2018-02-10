@@ -25,11 +25,8 @@ My next thought became to make a fully functional solar system with planets in o
 
 6. I made a bigger sphere as a sun and gave it color as well.
 #
-#### Coding compared to writing text:
-
-
-How your coding process is differ or similar to reading and writing text? (You may also reflect upon Annette Vee's text on coding literacy)
-What might be the potential and possibility of coding practice?
+#### Coding compared to reading and writing text:
+Along with other languages, When it comes to coding as a language it takes practise to master or to at least understand it. Coding can be understood both by people and computers as a language in between languages, as computers don't know english and people may have a hard time reading ones and zeros. When I used the coding in my project, I understood the things better when I wrote it myself in opposition to the parts I just copied. Likewise my understanding grew when comparing the visual differences in my program with the changes I made in my code. This way of leaning can be a big potential in order to learn the practise of code.
 
 ## My code:
 #### function setup() {
@@ -78,7 +75,7 @@ sphere(150);
   
   }
   #
- Best regards
+ Best regards 
 #### Frederik Ditlev Christensen
 
 
