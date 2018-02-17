@@ -1,3 +1,6 @@
+// Color_canon 1.0 by Frederik Ditlev Christensen
+
+//1. Variables
 var on = false; // Variable "on" is defined as false
 var randomnr; // Variable "randomnr" is declared
 
@@ -15,7 +18,7 @@ var x3;
 var x4;
 var x5;
 
-var xnum = x5;
+var xnum = x5; // xnum is defined as x5
 
 // Variable "y(1-5)" is declared (y-positions)
 var y1;
@@ -24,7 +27,7 @@ var y3;
 var y4;
 var y5;
 
-var ynum;
+var ynum; // ynum is declared
 
 var speed = -10; // Variable "speed" is defined as -10
 // Variable "s(1-5)" is declared (speed for corresponding ellipses)
@@ -34,22 +37,35 @@ var s3 = 0;
 var s4 = 0;
 var s5 = 0;
 
-function setup() { // function setup begins #1
-createCanvas(500,500);
-} // function setup ends #1
 
-function draw() {  // function draw begins #2
+
+// 2. Preload
+function preload() { //function preload begins
+  // Sounds here?
+} //function preload ends
+
+
+
+// 3. setup
+function setup() { // function setup begins
+createCanvas(500,500);
+} // function setup ends
+
+
+
+// 4. draw
+function draw() {  // function draw begins #1
   background('teal');
   fill('green');
   noStroke();
   rect(0,400,width,320);
-if (on==false) { // if (on==false) begins #3
+if (on==false) { // if (on==false) begins #2
   translate(width/2,height/2);
   translate(-150,-35);
   noFill();
-  if(mouseX<401 && mouseX>99 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #4
+  if(mouseX<401 && mouseX>99 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #3
   fill('brown');
-} // if(mouseX,mouseY) ends #4
+} // if(mouseX,mouseY) ends #3
 
   stroke('white');
   rect(0,0,300,70);
@@ -57,9 +73,9 @@ if (on==false) { // if (on==false) begins #3
   textSize(60);
   fill('white');
   text('Start', 10, 60);
-} // if (on==false) ends #3
+} // if (on==false) ends #2
 
-if (on==true) { // if (on==true) begins #5
+if (on==true) { // if (on==true) begins #4
   stroke('black');
   fill(150);
   rect(mouseX-25,340,50,100);
@@ -68,8 +84,8 @@ if (on==true) { // if (on==true) begins #5
 ellipse(mouseX,340,50,30);
 randomnr = Math.floor((Math.random() * 10) + 1);
 
-// Colormadness
-// Color c1
+// Color #5
+// #5.1
 if(c1 == 1){
 fill ('blue');
 }
@@ -101,8 +117,9 @@ if(c1 == 10){
 fill (40,189,0);
 }
 ellipse(x1,y1+s1,20,20);
+// #5.1
 
-//color c2
+// #5.2
 if(c2 == 1){
 fill ('blue');
 }
@@ -134,8 +151,9 @@ if(c2 == 10){
 fill (40,189,0);
 }
 ellipse(x2,y2+s2,20,20);
+// #5.2
 
-//color c3
+// #5.3
 if(c3 == 1){
 fill ('blue');
 }
@@ -167,8 +185,9 @@ if(c3 == 10){
 fill (40,189,0);
 }
 ellipse(x3,y3+s3,20,20);
+// #5.3
 
-//color c4
+// #5.4
 if(c4 == 1){
 fill ('blue');
 }
@@ -200,8 +219,9 @@ if(c4 == 10){
 fill (40,189,0);
 }
 ellipse(x4,y4+s4,20,20);
+// #5.4
 
-//color c5
+// #5.5
 if(c5 == 1){
 fill ('blue');
 }
@@ -233,6 +253,7 @@ if(c5 == 10){
 fill (40,189,0);
 }
 ellipse(x5,y5+s5,20,20);
+// #5.5
 
 // Speed is key
 s1 = s1+speed;
@@ -241,23 +262,26 @@ s3 = s3+speed;
 s4 = s4+speed;
 s5 = s5+speed;
 
-} // if (on==true) ends #5
+} // if (on==true) ends #4
+
+} //function draw ends #1
 
 
-} //function draw ends #2
 
-function mousePressed() { //function mousePressed begins #
+//5. mousepressed
+function mousePressed() { //function mousePressed begins #6
 
-if(on==false){ // if (on==true) begins #
-if(mouseX<401 && mouseX>99 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #
+if(on==false){ // if (on==true) begins #7
+if(mouseX<401 && mouseX>99 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #8
 on = !on; // Variable "on" turns from 'false' to 'true' or from 'true' to 'false'
 
-} //if (on==false) ends #
-} // if (mouseX,mouseY) ends #
+} //if (on==false) ends #7
+} // if (mouseX,mouseY) ends #8
 
-if(on==true){ // if(on==true) begins #
+if(on==true){ // if(on==true) begins #9
 
-// xnum
+// Changing x,y,s and c-values to get multiple ellipses #10
+// #10.1
 if(xnum==x1){
 x2 = mouseX;
 xnum = x2;
@@ -265,8 +289,9 @@ s2 = 0;
 y2 = 320;
 ynum = y2;
 c2 = randomnr;
-console.log("2");
-}
+console.log("2"); 
+} // #10.1
+// #10.2
 else if(xnum==x2){
 x3 = mouseX+1;
 xnum = x3;
@@ -275,7 +300,8 @@ y3 = 320;
 ynum = y3;
 c3 = randomnr;
 console.log("3");
-}
+}// #10.2
+// #10.3
 else if(xnum==x3){
 x4 = mouseX-1;
 xnum = x4;
@@ -284,7 +310,8 @@ y4 = 320;
 ynum = y4;
 c4 = randomnr;
 console.log("4");
-}
+}// #10.3
+// #10.4
 else if(xnum==x4){
 x5 = mouseX+2;
 xnum = x5;
@@ -293,7 +320,8 @@ y5 = 320;
 ynum = y5;
 c5 = randomnr;
 console.log("5");
-}
+}// #10.4
+// #10.5
 else if(xnum==x5){
 x1 = mouseX-2;
 xnum = x1;
@@ -302,8 +330,8 @@ y1 = 320;
 ynum = y1;
 c1 = randomnr;
 console.log("1");
-}
+}// #10.5
 
-} // if(on==true) ends #
+} // if(on==true) ends #9
 
-} //function mousePressed ends #
+} //function mousePressed ends #6
