@@ -1,6 +1,8 @@
 // Color_canon 1.0 by Frederik Ditlev Christensen
 
 //1. Variables
+var shot;
+
 var on = false; // Variable "on" is defined as false
 var randomnr; // Variable "randomnr" is declared
 
@@ -41,30 +43,46 @@ var s5 = 0;
 
 // 2. Preload
 function preload() { //function preload begins
-  // Sounds here?
+  shot = loadSound('shot.mp3');
 } //function preload ends
 
 
 
 // 3. setup
 function setup() { // function setup begins
-createCanvas(500,500);
+createCanvas(1200,500);
+//circusmusic.loop();
 } // function setup ends
 
 
 
 // 4. draw
 function draw() {  // function draw begins #1
-  background('teal');
-  fill('green');
+  background(100,170,200);
+
+var x = 0
+while(x <= width){
+  noStroke();
+  fill(200,100,200);
+  rect(x,400,60,-400);
+x = x + 120;
+}
+  fill('yellow');
   noStroke();
   rect(0,400,width,320);
+  stroke('black');
+  fill(150);
+  rect(mouseX-50,360,100,200);
+  stroke(0);
+  fill(50);
+  ellipse(mouseX,360,100,30);
+  randomnr = Math.floor((Math.random() * 10) + 1);
 if (on==false) { // if (on==false) begins #2
   translate(width/2,height/2);
   translate(-150,-35);
   noFill();
-  if(mouseX<401 && mouseX>99 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #3
-  fill('brown');
+  if(mouseX<751 && mouseX>449 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #3
+  fill('lightgreen');
 } // if(mouseX,mouseY) ends #3
 
   stroke('white');
@@ -72,17 +90,13 @@ if (on==false) { // if (on==false) begins #2
   translate(75,0);
   textSize(60);
   fill('white');
-  text('Start', 10, 60);
+  text('Fire!', 10, 60);
+
 } // if (on==false) ends #2
 
+
 if (on==true) { // if (on==true) begins #4
-  stroke('black');
-  fill(150);
-  rect(mouseX-25,340,50,100);
-  stroke(0);
-  fill(50);
-ellipse(mouseX,340,50,30);
-randomnr = Math.floor((Math.random() * 10) + 1);
+
 
 // Color #5
 // #5.1
@@ -116,7 +130,7 @@ fill (175,60,20);
 if(c1 == 10){
 fill (40,189,0);
 }
-ellipse(x1,y1+s1,20,20);
+ellipse(x1,y1+s1,20+randomnr*randomnr,20+randomnr*randomnr);
 // #5.1
 
 // #5.2
@@ -150,7 +164,7 @@ fill (175,60,20);
 if(c2 == 10){
 fill (40,189,0);
 }
-ellipse(x2,y2+s2,20,20);
+ellipse(x2,y2+s2,20+randomnr*randomnr,20+randomnr*randomnr);
 // #5.2
 
 // #5.3
@@ -184,7 +198,7 @@ fill (175,60,20);
 if(c3 == 10){
 fill (40,189,0);
 }
-ellipse(x3,y3+s3,20,20);
+ellipse(x3,y3+s3,20+randomnr*randomnr,20+randomnr*randomnr);
 // #5.3
 
 // #5.4
@@ -218,7 +232,7 @@ fill (175,60,20);
 if(c4 == 10){
 fill (40,189,0);
 }
-ellipse(x4,y4+s4,20,20);
+ellipse(x4,y4+s4,20+randomnr*randomnr,20+randomnr*randomnr);
 // #5.4
 
 // #5.5
@@ -252,7 +266,7 @@ fill (175,60,20);
 if(c5 == 10){
 fill (40,189,0);
 }
-ellipse(x5,y5+s5,20,20);
+ellipse(x5,y5+s5,20+randomnr*randomnr,20+randomnr*randomnr);
 // #5.5
 
 // Speed is key
@@ -270,15 +284,14 @@ s5 = s5+speed;
 
 //5. mousepressed
 function mousePressed() { //function mousePressed begins #6
-
 if(on==false){ // if (on==true) begins #7
-if(mouseX<401 && mouseX>99 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #8
+if(mouseX<751 && mouseX>449 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #8
 on = !on; // Variable "on" turns from 'false' to 'true' or from 'true' to 'false'
-
 } //if (on==false) ends #7
 } // if (mouseX,mouseY) ends #8
 
 if(on==true){ // if(on==true) begins #9
+shot.play();
 
 // Changing x,y,s and c-values to get multiple ellipses #10
 // #10.1
@@ -289,7 +302,7 @@ s2 = 0;
 y2 = 320;
 ynum = y2;
 c2 = randomnr;
-console.log("2"); 
+console.log("2");
 } // #10.1
 // #10.2
 else if(xnum==x2){
