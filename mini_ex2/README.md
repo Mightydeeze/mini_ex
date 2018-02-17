@@ -1,11 +1,11 @@
 # mini_ex2:
-## Titel mangler by Frederik Ditlev Christensen
+## Color_canon 1.0 by Frederik Ditlev Christensen
 #### Screenshot of mini_ex2:
-![alt text](fil_mangler.png "Fil mangler")
+![alt text](fil_mangler.png "canon balls")
 #### Short introduction:
 
 #
-#### Click to go [Titel Mangler](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex2/Excercises/empty-example/index.html)
+#### Click to [Fire up the canon](http://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex2/Excercises/empty-example/index.html)
 #
 #### :
 
