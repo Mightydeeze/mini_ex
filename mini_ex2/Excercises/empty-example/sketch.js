@@ -1,7 +1,7 @@
 // Color_canon 1.0 by Frederik Ditlev Christensen
 
 //1. Variables
-var shot;
+//var shot;
 
 var on = false; // Variable "on" is defined as false
 var randomnr; // Variable "randomnr" is declared
@@ -43,7 +43,7 @@ var s5 = 0;
 
 // 2. Preload
 function preload() { //function preload begins
-  shot = loadSound('shot.mp3');
+  //shot = loadSound('shot.mp3');
 } //function preload ends
 
 
@@ -291,7 +291,7 @@ on = !on; // Variable "on" turns from 'false' to 'true' or from 'true' to 'false
 } // if (mouseX,mouseY) ends #8
 
 if(on==true){ // if(on==true) begins #9
-shot.play();
+//shot.play();
 
 // Changing x,y,s and c-values to get multiple ellipses #10
 // #10.1
