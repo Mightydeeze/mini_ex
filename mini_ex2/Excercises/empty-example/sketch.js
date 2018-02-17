@@ -1,28 +1,33 @@
 var on = false; // Variable "on" is defined as false
 var randomnr; // Variable "randomnr" is declared
-var color = randomnr; // Variable "color" is set to "randomnr"
-var boldnr = 1; // Variable "boldnr" defined as 1
 
-// Variable "x(1-5)" is declared
+// Variable "c(1-5) is declared" (color for corresponding ellipses)
+var c1;
+var c2;
+var c3;
+var c4;
+var c5;
+
+// Variable "x(1-5)" is declared (x-positions)
 var x1;
 var x2;
 var x3;
 var x4;
 var x5;
 
-var xnum = x1;
+var xnum = x5;
 
-// Variable "y(1-5)" is declared
+// Variable "y(1-5)" is declared (y-positions)
 var y1;
 var y2;
 var y3;
 var y4;
 var y5;
 
-var ynum = y1
+var ynum;
 
 var speed = -10; // Variable "speed" is defined as -10
-// Variable "s(1-5)" is declared
+// Variable "s(1-5)" is declared (speed for corresponding ellipses)
 var s1 = 0;
 var s2 = 0;
 var s3 = 0;
@@ -63,42 +68,173 @@ if (on==true) { // if (on==true) begins #5
 ellipse(mouseX,340,50,30);
 randomnr = Math.floor((Math.random() * 10) + 1);
 
-if(color == 1){
+// Colormadness
+// Color c1
+if(c1 == 1){
 fill ('blue');
 }
-if(color == 2){
+if(c1 == 2){
 fill ('red');
 }
-if(color == 3){
+if(c1 == 3){
 fill ('pink');
 }
-if(color == 4){
+if(c1 == 4){
 fill ('green');
 }
-if(color == 5){
+if(c1 == 5){
 fill ('yellow');
 }
-if(color == 6){
+if(c1 == 6){
 fill ('orange');
 }
-if(color == 7){
+if(c1 == 7){
 fill ('cyan');
 }
-if(color == 8){
+if(c1 == 8){
 fill ('purple');
 }
-if(color == 9){
+if(c1 == 9){
 fill (175,60,20);
 }
-if(color == 10){
+if(c1 == 10){
 fill (40,189,0);
 }
 ellipse(x1,y1+s1,20,20);
+
+//color c2
+if(c2 == 1){
+fill ('blue');
+}
+if(c2 == 2){
+fill ('red');
+}
+if(c2 == 3){
+fill ('pink');
+}
+if(c2 == 4){
+fill ('green');
+}
+if(c2 == 5){
+fill ('yellow');
+}
+if(c2 == 6){
+fill ('orange');
+}
+if(c2 == 7){
+fill ('cyan');
+}
+if(c2 == 8){
+fill ('purple');
+}
+if(c2 == 9){
+fill (175,60,20);
+}
+if(c2 == 10){
+fill (40,189,0);
+}
 ellipse(x2,y2+s2,20,20);
+
+//color c3
+if(c3 == 1){
+fill ('blue');
+}
+if(c3 == 2){
+fill ('red');
+}
+if(c3 == 3){
+fill ('pink');
+}
+if(c3 == 4){
+fill ('green');
+}
+if(c3 == 5){
+fill ('yellow');
+}
+if(c3 == 6){
+fill ('orange');
+}
+if(c3 == 7){
+fill ('cyan');
+}
+if(c3 == 8){
+fill ('purple');
+}
+if(c3 == 9){
+fill (175,60,20);
+}
+if(c3 == 10){
+fill (40,189,0);
+}
 ellipse(x3,y3+s3,20,20);
+
+//color c4
+if(c4 == 1){
+fill ('blue');
+}
+if(c4 == 2){
+fill ('red');
+}
+if(c4 == 3){
+fill ('pink');
+}
+if(c4 == 4){
+fill ('green');
+}
+if(c4 == 5){
+fill ('yellow');
+}
+if(c4 == 6){
+fill ('orange');
+}
+if(c4 == 7){
+fill ('cyan');
+}
+if(c4 == 8){
+fill ('purple');
+}
+if(c4 == 9){
+fill (175,60,20);
+}
+if(c4 == 10){
+fill (40,189,0);
+}
 ellipse(x4,y4+s4,20,20);
+
+//color c5
+if(c5 == 1){
+fill ('blue');
+}
+if(c5 == 2){
+fill ('red');
+}
+if(c5 == 3){
+fill ('pink');
+}
+if(c5 == 4){
+fill ('green');
+}
+if(c5 == 5){
+fill ('yellow');
+}
+if(c5 == 6){
+fill ('orange');
+}
+if(c5 == 7){
+fill ('cyan');
+}
+if(c5 == 8){
+fill ('purple');
+}
+if(c5 == 9){
+fill (175,60,20);
+}
+if(c5 == 10){
+fill (40,189,0);
+}
 ellipse(x5,y5+s5,20,20);
 
+// Speed is key
 s1 = s1+speed;
 s2 = s2+speed;
 s3 = s3+speed;
@@ -120,70 +256,54 @@ on = !on; // Variable "on" turns from 'false' to 'true' or from 'true' to 'false
 } // if (mouseX,mouseY) ends #
 
 if(on==true){ // if(on==true) begins #
-color = randomnr;
 
 // xnum
-if(xnum==x1){ // (xnum==x1) --> x2 #
+if(xnum==x1){
 x2 = mouseX;
 xnum = x2;
 s2 = 0;
-console.log("x2");
+y2 = 320;
+ynum = y2;
+c2 = randomnr;
+console.log("2");
 }
-else if(xnum==x2){ // (xnum==x2) --> x3 #
+else if(xnum==x2){
 x3 = mouseX+1;
 xnum = x3;
 s3 = 0;
-console.log("x3");
+y3 = 320;
+ynum = y3;
+c3 = randomnr;
+console.log("3");
 }
-else if(xnum==x3){ // (xnum==x3) --> x4 #
+else if(xnum==x3){
 x4 = mouseX-1;
 xnum = x4;
 s4 = 0;
-console.log("x4");
+y4 = 320;
+ynum = y4;
+c4 = randomnr;
+console.log("4");
 }
-else if(xnum==x4){ // (xnum==x4) --> x5 #
+else if(xnum==x4){
 x5 = mouseX+2;
 xnum = x5;
 s5 = 0;
-console.log("x5");
+y5 = 320;
+ynum = y5;
+c5 = randomnr;
+console.log("5");
 }
-else if(xnum==x5){ // (xnum==x5) --> x1 #
+else if(xnum==x5){
 x1 = mouseX-2;
 xnum = x1;
 s1 = 0;
-console.log("x1");
-}
-
-
-// ynum
-if(ynum==y1){ // (ynum==y1) --> y2 #
-y2 = 320;
-ynum = y2;
-console.log("y2");
-}
-else if(ynum==y2){ // (ynum==y2) --> y3 #
-y3 = 321;
-ynum = y3;
-console.log("y3");
-}
-else if(ynum==y3){ // (ynum==y3) --> y4 #
-y4 = 319;
-ynum = y4;
-console.log("y4");
-}
-else if(ynum==y4){ // (ynum==y4) --> y5 #
-y5 = 322;
-ynum = y5;
-console.log("y5");
-}
-else if(ynum==y5){ // (ynum==y5) --> y1 #
-y1 = 318;
+y1 = 320;
 ynum = y1;
-console.log("y1");
+c1 = randomnr;
+console.log("1");
 }
-
 
 } // if(on==true) ends #
-
 
 } //function mousePressed ends #
