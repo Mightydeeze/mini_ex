@@ -41,14 +41,7 @@ var s5 = 0;
 
 
 
-// 2. Preload
-function preload() { //function preload begins
-  //shot = loadSound('shot.mp3');
-} //function preload ends
-
-
-
-// 3. setup
+// 2. setup
 function setup() { // function setup begins
 createCanvas(1200,500);
 //circusmusic.loop();
@@ -56,7 +49,7 @@ createCanvas(1200,500);
 
 
 
-// 4. draw
+// 3. draw
 function draw() {  // function draw begins #1
   background(100,170,200);
 
@@ -282,7 +275,7 @@ s5 = s5+speed;
 
 
 
-//5. mousepressed
+//4. mousepressed
 function mousePressed() { //function mousePressed begins #6
 if(on==false){ // if (on==true) begins #7
 if(mouseX<751 && mouseX>449 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #8
