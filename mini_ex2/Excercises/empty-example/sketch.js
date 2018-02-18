@@ -1,7 +1,9 @@
 // Color_canon 1.0 by Frederik Ditlev Christensen
 
 //1. Variables
-//var shot;
+var shot;
+var yay;
+var shotcount = 0;
 
 var on = false; // Variable "on" is defined as false
 var randomnr; // Variable "randomnr" is declared
@@ -41,15 +43,23 @@ var s5 = 0;
 
 
 
-// 2. setup
+// 2. Preload
+function preload() { //function preload begins
+  shot = loadSound('boing.wav');
+  yay = loadSound('yay.mp3');
+} //function preload ends
+
+
+
+// 3. setup
 function setup() { // function setup begins
 createCanvas(1200,500);
-//circusmusic.loop();
+noCursor();
 } // function setup ends
 
 
 
-// 3. draw
+// 4. draw
 function draw() {  // function draw begins #1
   background(100,170,200);
 
@@ -74,7 +84,7 @@ if (on==false) { // if (on==false) begins #2
   translate(width/2,height/2);
   translate(-150,-35);
   noFill();
-  if(mouseX<751 && mouseX>449 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #3
+  if(mouseX<751 && mouseX>449){ // if(mouseX,mouseY) begins #3
   fill('lightgreen');
 } // if(mouseX,mouseY) ends #3
 
@@ -89,8 +99,13 @@ if (on==false) { // if (on==false) begins #2
 
 
 if (on==true) { // if (on==true) begins #4
+translate(30,400);
+noStroke();
+textSize(30);
+fill('red');
+text('Ballcount:  '+shotcount,10,60);
 
-
+translate(0,-400);
 // Color #5
 // #5.1
 if(c1 == 1){
@@ -275,17 +290,20 @@ s5 = s5+speed;
 
 
 
-//4. mousepressed
+//5. mousepressed
 function mousePressed() { //function mousePressed begins #6
 if(on==false){ // if (on==true) begins #7
-if(mouseX<751 && mouseX>449 && mouseY<286 && mouseY>214){ // if(mouseX,mouseY) begins #8
+if(mouseX<751 && mouseX>449){ // if(mouseX,mouseY) begins #8
 on = !on; // Variable "on" turns from 'false' to 'true' or from 'true' to 'false'
 } //if (on==false) ends #7
 } // if (mouseX,mouseY) ends #8
 
 if(on==true){ // if(on==true) begins #9
-//shot.play();
-
+shot.play();
+shotcount = shotcount +1;
+if(shotcount % 100 == 0){
+yay.play();
+}
 // Changing x,y,s and c-values to get multiple ellipses #10
 // #10.1
 if(xnum==x1){
