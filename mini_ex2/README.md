@@ -3,7 +3,7 @@
 #### Screenshot of mini_ex2:
 ![Github logo](screen_shot.png "canon balls")
 #### Short introduction:
-
+This project
 #
 #### Click to [Fire up the canon](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex2/Excercises/empty-example/index.html)
 #
