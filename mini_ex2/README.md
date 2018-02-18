@@ -580,9 +580,9 @@ c4 = randomnr;
   
 console.log("4");
   
-}// #11.3
+}// #11.3 ends
   
-// #11.4
+// #11.4 begins
   
 else if(xnum==x4){
   
