@@ -60,7 +60,7 @@ noCursor();
 
 
 // 4. draw
-function draw() {  // function draw begins #1
+function draw() {  // function draw #1 begins
   background(100,170,200);
 
 var x = 0
@@ -80,25 +80,24 @@ x = x + 120;
   fill(50);
   ellipse(mouseX,360,100,30);
   randomnr = Math.floor((Math.random() * 10) + 1);
-if (on==false) { // if (on==false) begins #2
+if (on==false) { // if (on==false) #2 begins
   translate(width/2,height/2);
   translate(-150,-35);
   noFill();
-  if(mouseX<751 && mouseX>449){ // if(mouseX,mouseY) begins #3
+  if(mouseX<751 && mouseX>449){ // if(mouseX,mouseY)  #3 begins
   fill('lightgreen');
-} // if(mouseX,mouseY) ends #3
-
+} // if(mouseX,mouseY) #3 ends
+  
   stroke('white');
   rect(0,0,300,70);
   translate(75,0);
   textSize(60);
   fill('white');
   text('Fire!', 10, 60);
+  
+} // if (on==false) #2 ends
 
-} // if (on==false) ends #2
-
-
-if (on==true) { // if (on==true) begins #4
+if (on==true) { // if (on==true) #4 begins
 translate(30,400);
 noStroke();
 textSize(30);
@@ -106,8 +105,8 @@ fill('red');
 text('Ballcount:  '+shotcount,10,60);
 
 translate(0,-400);
-// Color #5
-// #5.1
+// Color #5 begins
+// #5.1 begins
 if(c1 == 1){
 fill ('blue');
 }
@@ -139,9 +138,9 @@ if(c1 == 10){
 fill (40,189,0);
 }
 ellipse(x1,y1+s1,20+randomnr*randomnr,20+randomnr*randomnr);
-// #5.1
+// #5.1 ends
 
-// #5.2
+// #5.2 begins
 if(c2 == 1){
 fill ('blue');
 }
@@ -173,9 +172,9 @@ if(c2 == 10){
 fill (40,189,0);
 }
 ellipse(x2,y2+s2,20+randomnr*randomnr,20+randomnr*randomnr);
-// #5.2
+// #5.2 ends
 
-// #5.3
+// #5.3 begins
 if(c3 == 1){
 fill ('blue');
 }
@@ -207,9 +206,9 @@ if(c3 == 10){
 fill (40,189,0);
 }
 ellipse(x3,y3+s3,20+randomnr*randomnr,20+randomnr*randomnr);
-// #5.3
+// #5.3 ends
 
-// #5.4
+// #5.4 begins
 if(c4 == 1){
 fill ('blue');
 }
@@ -241,9 +240,9 @@ if(c4 == 10){
 fill (40,189,0);
 }
 ellipse(x4,y4+s4,20+randomnr*randomnr,20+randomnr*randomnr);
-// #5.4
+// #5.4 ends
 
-// #5.5
+// #5.5 begins
 if(c5 == 1){
 fill ('blue');
 }
@@ -275,7 +274,7 @@ if(c5 == 10){
 fill (40,189,0);
 }
 ellipse(x5,y5+s5,20+randomnr*randomnr,20+randomnr*randomnr);
-// #5.5
+// #5.5 ends
 
 // Speed is key
 s1 = s1+speed;
@@ -284,28 +283,28 @@ s3 = s3+speed;
 s4 = s4+speed;
 s5 = s5+speed;
 
-} // if (on==true) ends #4
+} // if (on==true) #4 ends
 
-} //function draw ends #1
+} //function draw #1 ends
 
 
 
 //5. mousepressed
-function mousePressed() { //function mousePressed begins #6
-if(on==false){ // if (on==true) begins #7
-if(mouseX<751 && mouseX>449){ // if(mouseX,mouseY) begins #8
+function mousePressed() { //function mousePressed #6 begins
+if(on==false){ // if (on==false) #7 begins
+if(mouseX<751 && mouseX>449){ // if(mouseX,mouseY) #8 begins
 on = !on; // Variable "on" turns from 'false' to 'true' or from 'true' to 'false'
-} //if (on==false) ends #7
-} // if (mouseX,mouseY) ends #8
+} //if (on==false)  #7 ends
+} // if (mouseX,mouseY) #8 ends
 
-if(on==true){ // if(on==true) begins #9
+if(on==true){ // if(on==true) #9 begins
 shot.play();
 shotcount = shotcount +1;
 if(shotcount % 100 == 0){
 yay.play();
 }
-// Changing x,y,s and c-values to get multiple ellipses #10
-// #10.1
+// Changing x,y,s and c-values to get multiple ellipses #10 begins
+// #10.1 begins
 if(xnum==x1){
 x2 = mouseX;
 xnum = x2;
@@ -314,8 +313,8 @@ y2 = 320;
 ynum = y2;
 c2 = randomnr;
 console.log("2");
-} // #10.1
-// #10.2
+} // #10.1 ends
+// #10.2 begins
 else if(xnum==x2){
 x3 = mouseX+1;
 xnum = x3;
@@ -324,8 +323,8 @@ y3 = 320;
 ynum = y3;
 c3 = randomnr;
 console.log("3");
-}// #10.2
-// #10.3
+}// #10.2 ends
+// #10.3 begins
 else if(xnum==x3){
 x4 = mouseX-1;
 xnum = x4;
@@ -344,8 +343,8 @@ y5 = 320;
 ynum = y5;
 c5 = randomnr;
 console.log("5");
-}// #10.4
-// #10.5
+}// #10.4 ends
+// #10.5 begins
 else if(xnum==x5){
 x1 = mouseX-2;
 xnum = x1;
@@ -354,8 +353,9 @@ y1 = 320;
 ynum = y1;
 c1 = randomnr;
 console.log("1");
-}// #10.5
+}// #10.5 ends
+// #10 ends
 
-} // if(on==true) ends #9
+} // if(on==true) #9 ends
 
-} //function mousePressed ends #6
+} //function mousePressed #6 ends
