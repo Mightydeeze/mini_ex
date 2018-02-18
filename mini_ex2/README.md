@@ -5,7 +5,7 @@
 #### Short introduction:
 This project
 #
-#### Click to [Fire up the canon](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex2/Excercises/empty-example/index.html)
+#### Click to [Fire up the canon](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex2/Excercises/empty-example/index.html)
 #
 #### :
 
