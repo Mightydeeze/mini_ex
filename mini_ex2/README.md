@@ -1,7 +1,7 @@
 # mini_ex2:
 ## Color_canon 1.0 by Frederik Ditlev Christensen
 #### Screenshot of mini_ex2:
-![alt text](fil_mangler.png "canon balls")
+![Github logo](screen_shot.png "canon balls")
 #### Short introduction:
 
 #
