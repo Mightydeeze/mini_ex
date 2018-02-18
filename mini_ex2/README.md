@@ -193,7 +193,7 @@ fill('red');
   
 text('Ballcount:  '+shotcount,10,60);
 
-translate(0,-400);
+translate(-30,-400);
   
 // Color #6 begins
   
