@@ -104,7 +104,7 @@ textSize(30);
 fill('red');
 text('Ballcount:  '+shotcount,10,60);
 
-translate(0,-400);
+translate(-30,-400);
 // Color #6 begins
 // #6.1 begins
 if(c1 == 1){
