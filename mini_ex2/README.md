@@ -9,6 +9,7 @@ This project is an atempt to express fun in a way that is rediculous in my opini
 #
 #### Fun in software: (in progress)
 
+expresses and addresses Goriunova's notion of fun by using basic shapes primarily.
 
 Goriunova, Oga. Fun and Software: Exploring Pleasure, Paradox and Pain in Computing. Bloomsbury Academic, 2014, pp.1-19
 
