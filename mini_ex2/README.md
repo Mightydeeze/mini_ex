@@ -3,15 +3,16 @@
 #### Screenshot of mini_ex2:
 ![Github logo](screen_shot.png "canon balls")
 #### Short introduction:
-This project
+This project is an atempt to express fun in a way that is rediculous in my opinion. The visitters of this program are able to control a canon with their mouse. With a press of the mouse, a colored ball is shot from the canon into the air with a weird noise. The program is formed like a game although it might miss some fundamental features to be one. It is recommended to try it out with sound, but keep in mind that some sounds have a slightly higher volume.    
 #
 #### Click to [Fire up the canon](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex2/Excercises/empty-example/index.html)
 #
-#### :
+#### Fun in software:
+"There is a particular fun that finds its fascination in logic. The acquisition of language, notation and the establishment of the practice of programming include fun as a mode of production that oscillates between abstraction, normativity and paradox or the absurd." pp. 10.
+
+"A collective, iterative production of fun is part of its aesthetic methodology and nonsense enters the discussion of fun through a light touch, rich in idiotic, ambiguous gestures. The banal and rubbish, as well as the coarse, are mobilized as responses and affects intensify and circulate across the scales of art’s existence." pp. 16.
 
 #
-#### :
-
 ## My code:
 // Color_canon 1.0 by Frederik Ditlev Christensen
 
