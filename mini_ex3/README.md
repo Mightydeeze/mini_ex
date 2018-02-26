@@ -19,9 +19,12 @@ Taken from http://reallifemag.com/fidget-spinners/
 Ironically, I feel like I didn't have the time to make the project the way that I wanted it to be.
 
 Describe about your throbber design, both conceptually and technically.
+
 What is the time-related syntax/function that you have used in your program? and why you use in this way?
+
 Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting ticket transaction, what do you think a throbber tells us, or hide, about?
-#### [My code:](https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex3/Excercises/empty-example/sketch.js)
+
+#### My code: https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex3/Excercises/empty-example/sketch.js
 
   #
  Best regards 
