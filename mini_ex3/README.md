@@ -22,7 +22,7 @@ Describe about your throbber design, both conceptually and technically.
 What is the time-related syntax/function that you have used in your program? and why you use in this way?
 Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting ticket transaction, what do you think a throbber tells us, or hide, about?
 ## My code:
-/Time_is_patient by Frederik Ditlev Christensen
+//Time_is_patient by Frederik Ditlev Christensen
 
 //Variables
 
@@ -37,24 +37,15 @@ var i = 0;
 var count = 0;
 
 var texts = ['"Are you watching closely?"',
-
 '"Time flies like an arrow; fruit flies like a banana."',
-
  '"It is the time you have wasted for your rose that makes your rose so important."',
- 
- '"Don`t waste your time with explanations: people only hear what they want to hear."' ,
- 
- '"Don`t spend time beating on a wall, hoping to transform it into a door."',
- 
- '"Time is the longest distance between two places."',
- 
- '“They always say time changes things, but you actually have to change them yourself.”',
- 
- '“They say time heals all wounds, but that presumes the source of the grief is finite”',
- 
- '“A man who dares to waste one hour of time has not discovered the value of life.”',
- 
- '“Time is an illusion.”'];
+  '"Don`t waste your time with explanations: people only hear what they want to hear."' ,
+  '"Don`t spend time beating on a wall, hoping to transform it into a door."',
+  '"Time is the longest distance between two places."',
+  '“They always say time changes things, but you actually have to change them yourself.”',
+  '“They say time heals all wounds, but that presumes the source of the grief is finite”',
+  '“A man who dares to waste one hour of time has not discovered the value of life.”',
+  '“Time is an illusion.”'];
  
 
 function setup() {
