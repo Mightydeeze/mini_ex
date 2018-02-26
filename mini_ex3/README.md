@@ -28,11 +28,6 @@ In the beginning I wanted to make a throbber as Donald Trumps hair orbiting his 
 
 I used [rotate()](https://p5js.org/reference/#/p5/rotate) on all the shapes and used [push()](https://p5js.org/reference/#/p5/push) and [pop()](https://p5js.org/reference/#/p5/pop) to make the difference in color and speeds. To show the text I made an array with all the quotes as elements which got triggered by a counter.
 
-(In progress)
-What is the time-related syntax/function that you have used in your program? and why you use in this way?
-
-
-
 #### My code: https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex3/Excercises/empty-example/sketch.js
 
   #
