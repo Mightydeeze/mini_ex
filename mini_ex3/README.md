@@ -26,7 +26,8 @@ I also encountered some problems with the lenght of an 'array' as the console sa
 
 In the beginning I wanted to make a throbber as Donald Trumps hair orbiting his head which seemed a bit complicated in terms of photoshopping skills. I actually thought of lots of things but ended up with a watch - reasonably time related. 
 
-I used [rotate()](https://p5js.org/reference/#/p5/rotate) on all the shapes and used [push()](https://p5js.org/reference/#/p5/push) and [pop()](https://p5js.org/reference/#/p5/pop) to make the difference in color and speeds. To show the text I made an array with all the quotes as elements which got triggered by a counter.
+I used [rotate()](https://p5js.org/reference/#/p5/rotate) on all the shapes and used [push()](https://p5js.org/reference/#/p5/push) and [pop()](https://p5js.org/reference/#/p5/pop) to make the difference in color and speeds. To show the text I made an array with all the quotes as elements which got triggered by a counter as seen in the picture below:
+![alt text](Text_count.png)
 
 #### My code: https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex3/Excercises/empty-example/sketch.js
 
