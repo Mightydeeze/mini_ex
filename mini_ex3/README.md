@@ -19,14 +19,16 @@ As my throbber suggests, things are not always as they seem, especially when the
 A quote from the text "Fidget Spinners" by Jason Farman, June 28. 2017; posted on this website: http://reallifemag.com/fidget-spinners/
 
 #
-#### My coding process: (in progress)
+#### My coding process: 
 
 Ironically, I feel like I didn't have had the time to make this project the way it was meant to be. E.g I wanted to make the text scale for the size of the window so the whole text would always be visible. 
 I also encountered some problems with the lenght of an 'array' as the console said it was undefined and therefore needed to use the exact number of total elements everytime I added another element to the array.
 
-I wanted to make a throbber that was different from Winnie's in terms of the used syntax. 
-Technically in the design
+In the beginning I wanted to make a throbber as Donald Trumps hair orbiting his head which seemed a bit complicated in terms of photoshopping skills. I actually thought of lots of things but ended up with a watch - reasonably time related. 
 
+I used [rotate()](https://p5js.org/reference/#/p5/rotate) on all the shapes and used [push()](https://p5js.org/reference/#/p5/push) and [pop()](https://p5js.org/reference/#/p5/pop) to make the difference in color and speeds. To show the text I made an array with all the quotes as elements which got triggered by a counter.
+
+>>(In progress)<<
 What is the time-related syntax/function that you have used in your program? and why you use in this way?
 
 
