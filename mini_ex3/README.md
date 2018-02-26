@@ -4,7 +4,9 @@
 #### Screenshot of mini_ex3:
 ![alt text](Time.png "Are you watching closely?")
 #### Short introduction:
-This Project
+This Project is a little bit more than the usual throbber. It is not only a clockwise spinning watch with the arrows going the opposite direction (counterclockwise). Because the watch is spinning faster than the arrows are moving it will occur to the viewer as if the arrows are turning along with the watch, but The truth is they don't - they are resisting without succes.
+Along with the spinning watch there are some (perhaps) inspirational quotes through variyng times, the first quote from the movie "The Prestige" and the rest handpicked from this website: https://www.goodreads.com/quotes/tag/time
+Enjoy!
 
 #
 #### Click to ["waste" some time](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex3/Excercises/empty-example/index.html)
