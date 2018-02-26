@@ -14,7 +14,7 @@ Enjoy!
 #### Thoughts on the subject of thobbers and time:
 As my throbber suggests, things are not always as they seem, especially when the whole context isn't shown. Behind the constant 'stream' that a throbber ensures, the truth is a little bit different. In our digital culture, we exspect a constant stream of data to be present. And even when our hardware and software fails to deliver this constancy, our dear throbbers have a tendancy to hide the feedback to the process that's really happening. We can only wait while our society continues to move on without us. People become doubtfull and impatient because they don't have any time to waste. When time is such an important measurement, why do throbbers not have a loading bar? Maybe we don't need an answer to everything and maybe the ability to enjoy the indeterminable breaks in life is a good and healthy quality to have. That way, terms such as 'boredom' and 'timewaste' gets a whole other perspective.
 
-"But as I argue in my book, Waiting for Word, we are looking at waiting entirely wrong. Waiting isn’t essentially a wasted in-between time; instead waiting is a core part of messages we send each other across the fiber optic lines. The time it takes to receive and interpret a message is also part of its content. We take the moment of waiting and give it meaning; it becomes a message of its own."
+>"But as I argue in my book, Waiting for Word, we are looking at waiting entirely wrong. Waiting isn’t essentially a wasted in-between time; instead waiting is a core part of messages we send each other across the fiber optic lines. The time it takes to receive and interpret a message is also part of its content. We take the moment of waiting and give it meaning; it becomes a message of its own."
 
 A quote from the text "Fidget Spinners" by Jason Farman, June 28. 2017; posted on this website: http://reallifemag.com/fidget-spinners/
 
@@ -28,7 +28,7 @@ In the beginning I wanted to make a throbber as Donald Trumps hair orbiting his 
 
 I used [rotate()](https://p5js.org/reference/#/p5/rotate) on all the shapes and used [push()](https://p5js.org/reference/#/p5/push) and [pop()](https://p5js.org/reference/#/p5/pop) to make the difference in color and speeds. To show the text I made an array with all the quotes as elements which got triggered by a counter.
 
->>(In progress)<<
+(In progress)
 What is the time-related syntax/function that you have used in your program? and why you use in this way?
 
 
