@@ -1,7 +1,7 @@
 # mini_ex4:
 ## Titel mangler by Frederik Ditlev Christensen
 #### Screenshot of mini_ex4:
-![alt text](screenshot mini_ex4.png "Ones and zeros")
+![alt text](Screenshot mini_ex4.png "Ones and zeros")
 #### Short introduction:
 
 #
