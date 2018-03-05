@@ -1,4 +1,8 @@
 # mini_ex4:
+Go to mini_ex:
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
+[2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
+[3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),4...
 ## Capture_all by Frederik Ditlev Christensen
 #### Screenshot of mini_ex4:
 ![alt text](screenshot.png "Ones and zeros")
