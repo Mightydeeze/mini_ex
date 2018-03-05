@@ -1,4 +1,8 @@
 # mini_ex2:
+Go to mini_ex:
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),2,
+[3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4)...
 ## Color_canon 1.0 by Frederik Ditlev Christensen
 #### Screenshot of mini_ex2:
 ![Github logo](screen_shot.png "canon balls")
