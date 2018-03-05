@@ -37,4 +37,7 @@ To show the text I made an array with all the quotes as elements which got trigg
  Best regards 
 #### Frederik Ditlev Christensen
 
-
+Go to mini_ex:
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
+[2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),3,
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4)...
