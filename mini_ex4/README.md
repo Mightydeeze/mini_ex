@@ -9,11 +9,11 @@ The program doesn't need a microphone or webcam to run as it only relies on the 
 #
 #### Click to [Be observed](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex4/Excercises/empty-example/index.html)
 #
-#### :
-
+#### Data Capture:
+How many times haven't we used the internet for something "illegal"? And how many of those times have we actually been aware of this? Why do we need to pay for stuff when it's out there on the internet for free? Copyright is such a big deal today, but still so many internet pirates are on the loose. We (in general) want freedom on the internet in contrast to the law proposals against it (laws such as **S.O.P.A & P.I.P.A**). If the laws became a thing there wouldn't be such things as youtube, facebook or twitter due to shotdowns. All our data would be under constant surveillance in order to controll our behavior online. This is already happening to a certain extent in the USA and countries as China.
 #
 #### My coding process:
-
+At first I wanted to make some kind of search bar with suggestions to political toppics as if someone already had searched for the toppics. Allthough, I really wanted to let the program appeal to our conscience. So I decided to make a bit creepy atmosphere with "someone" watching the user.      
 ## My code:
 https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex4/Excercises/empty-example/sketch.js
   #
