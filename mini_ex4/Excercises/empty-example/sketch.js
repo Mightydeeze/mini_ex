@@ -21,7 +21,7 @@ function setup() {
 
 function draw() {
   background(0);
-//calling my own functions
+//calling my own functions - I have quite a few in the bottom of the code
   watchingYou();
   scope();
   numbers();
