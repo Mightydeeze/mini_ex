@@ -29,51 +29,8 @@ My next thought became to make a fully functional solar system with planets in o
 Along with other languages, When it comes to coding as a language it takes practise to master or to at least understand it. Coding can be understood both by people and computers as a language in between languages, as computers don't know english and people may have a hard time reading ones and zeros. When I used the coding in my project, I understood the things better when I wrote it myself in opposition to the parts I just copied. Likewise my understanding grew when comparing the visual differences in my program with the changes I made in my code. This way of leaning can be a big potential in order to learn the practise of code.
 
 ## My code:
-#### function setup() {
-  
-  createCanvas(1600, 1000, WEBGL);
-  
-  var fov = 60 / 180 * PI;
-  
-  var cameraZ = height / 2.0 / tan(fov / 2.0);
- 
-  perspective(60 / 180 * PI, width / height, cameraZ * 0.1, cameraZ * 10); }
-  
-#### function draw() {
-
-  background('brown');
-
-  for (var i = -1; i < 20; i++) {
-  
-  for (var j = -2; j < 20; j++) {
-   
-  push();
-   
-  translate(i * 160, 0, j * 150);
-   
-  c = color('#222222');
-   
-  fill(c); 
-   
-  noStroke();
-   
-  sphere(5, 40, 40);
-   
-  pop();
-   
-  camera(750, 10, sin(frameCount * 0.0009) * 600, 0, -200, 200, 0, 4, 0);
-  
-  var c = color('orange'); 
-  
-  fill(c); 
-  
-  noStroke(); 
-  
-sphere(150);
-
-  }
-  
-  }
+#### 
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex1/Excercises/empty-example/sketch.js
   #
  Best regards 
 #### Frederik Ditlev Christensen
