@@ -34,5 +34,6 @@ https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex1/Excercises/emp
   #
  Best regards 
 #### Frederik Ditlev Christensen
+[>>>mini_ex2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2)
 
 
