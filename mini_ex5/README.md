@@ -17,7 +17,7 @@ Enjoy the mess!
 
 **Warning**: The following content has some rapidly shifting colors that may lead to some discomfort for people who suffer from epileptic disorders.
 #
-#### Click to [Stop the invasion!](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex5/Excercises/empty-example/index.html)
+#### Click to [Stop the invasion!](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex5/Excercises/empty-example/index.html)
 #
 #### Object Oriented: In progress
 #
