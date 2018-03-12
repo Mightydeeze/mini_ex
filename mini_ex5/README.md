@@ -6,10 +6,18 @@ Go to mini_ex:
 ## shape_invaders by Frederik Ditlev Christensen
 #### Screenshot of mini_ex5:
 ![alt text](shape_invaders.png "Invasion of the shapes!")
+
 ![alt text](shape_invaders2.png "Invasion of the shapes!")
 #### Short introduction: In progress
+The following project does not function correctly, as I had some trouble in my coding process - a bit of a shame - however, it is an attempt to show that even a small amount of information can be used to form objects in the digital world. Of course it was meant to be a game as well...
+
+In the "game", the player controls a box on a blue canvas by the buttons "w", "a", "s" and "d". By pressing the "space" button, bullets are fired from the box in order to hit and destroy the invading circles. Due to the problems in my process, I couldn't manage to get this mini exercise done in time, and I decided to just leave it with all it's flaws.
+
+Enjoy the mess!
+
+**Warning**: The following content has some rapidly shifting colors that may lead to some discomfort for people who suffer from epileptic disorders.
 #
-#### Click to []() In progress
+#### Click to [](): In progress
 #
 #### Object Oriented: In progress
 #
