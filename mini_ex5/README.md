@@ -11,7 +11,7 @@ Go to mini_ex:
 #### Short introduction: In progress
 The following project does not function correctly, as I had some trouble in my coding process - a bit of a shame - however, it is an attempt to show that even a small amount of information can be used to form objects in the digital world. Of course it was meant to be a game as well...
 
-In the "game", the player controls a box on a blue canvas by the buttons "w", "a", "s" and "d". By pressing the "space" button, bullets are fired from the box in order to hit and destroy the invading circles. Due to the problems in my process, I couldn't manage to get this mini exercise done in time, and I decided to just leave it with all it's flaws.
+In the "game", the player controls a box on a blue canvas by the buttons "w", "a", "s" and "d". By pressing the "space bar", bullets are fired from the box in order to hit and destroy the invading circles. Due to the problems in my process, I couldn't manage to get this mini exercise done in time, and I decided to just leave it with all it's flaws.
 
 Enjoy the mess!
 
