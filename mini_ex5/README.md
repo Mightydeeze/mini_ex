@@ -20,9 +20,15 @@ Enjoy the mess!
 #### Click to [Stop the invasion!](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex5/Excercises/empty-example/index.html)
 #
 #### Object Oriented: In progress
-#
-#### My coding process: In progress
 
+#
+#### My coding process:
+In my coding process I focused on the **"class"** syntax due to the requirements of this mini exercise although I could have made the task in other easier ways. As in Daniel Shiffmans coding challenge [#46.1](https://www.youtube.com/watch?v=hacZU523FyM) & [#46.2](https://www.youtube.com/watch?v=xTTuih7P0c0), he creates whole new **js**-files instead of using **class**. By choosing **classes** instead, I had a hard time figuring out how to make the objects (bullets and obstacles) collide with each other. And when they finally collided, all the obstacles would be removed.
+
+I wanted to import a "game over" function to the game, which seems possible, but now I have just leaved it out although it appears in the code.
+
+I want to say sorry in advance for the my (what might be) confusing code.
+#
 ## My code:
 https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex5/Excercises/empty-example/sketch.js
   #
