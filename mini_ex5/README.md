@@ -8,7 +8,7 @@ Go to mini_ex:
 ![alt text](shape_invaders.png "Invasion of the shapes!")
 
 ![alt text](shape_invaders2.png "Invasion of the shapes!")
-#### Short introduction: In progress
+#### Short introduction:
 The following project does not function correctly, as I had some trouble in my coding process - a bit of a shame - however, it is an attempt to show that even a small amount of information can be used to form objects in the digital world. Of course it was meant to be a game as well...
 
 In the "game", the player controls a box on a blue canvas by the buttons "w", "a", "s" and "d". By pressing the "space bar", bullets are fired from the box in order to hit and destroy the invading circles. Due to the problems in my process, I couldn't manage to get this mini exercise done in time, and I decided to just leave it with all it's flaws.
@@ -20,7 +20,7 @@ Enjoy the mess!
 #### Click to [Stop the invasion!](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex5/Excercises/empty-example/index.html)
 #
 #### Object Oriented: In progress
-
+When you think of objects in the real world and compare them with similar objects in the digital world, some properties might be missing. (although in some cases it may have even more properties in the digital world due to augmentations.)
 #
 #### My coding process:
 In my coding process I focused on the **"class"** syntax due to the requirements of this mini exercise although I could have made the task in other easier ways. As in Daniel Shiffmans coding challenge [#46.1](https://www.youtube.com/watch?v=hacZU523FyM) & [#46.2](https://www.youtube.com/watch?v=xTTuih7P0c0), he creates whole new **js**-files instead of using **class**. By choosing **classes** instead, I had a hard time figuring out how to make the objects (bullets and obstacles) collide with each other. And when they finally collided, all the obstacles would be removed.
