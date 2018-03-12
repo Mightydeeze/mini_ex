@@ -3,7 +3,8 @@
 Go to mini_ex:
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),3,
-[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4)...
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5)...
 ## Time_is_patient by Frederik Ditlev Christensen
 #### Screenshot of mini_ex3:
 ![alt text](Time.png "Are you watching closely?")
@@ -44,4 +45,5 @@ To show the text I made an array with all the quotes as elements which got trigg
 Go to mini_ex:
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),3,
-[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4)...
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5)...
