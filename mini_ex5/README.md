@@ -20,9 +20,13 @@ Enjoy the mess!
 #### Click to [Stop the invasion!](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex5/Excercises/empty-example/index.html)
 #
 #### Object Oriented: In progress
-When you think of objects in the real world and compare them with similar objects in the digital world, some properties might be missing. (although in some cases it may have even more properties in the digital world due to augmentations.)
+When you think of objects in the real world and compare them with similar objects in the digital world, some properties might be missing. (although in some cases it may have even more properties in the digital world due to augmentations.) The creater of the virtual objects selects between all thoose properties to make his/her own expression of the object. Even theese two words "his" and "her" indicates that there are only two genders (male and female) which is a common view on genders when it comes to online social media accounts/profiles, in opposition to the view on genders outside the social media. 
+
+In my game
 #
 #### My coding process:
+In the beginning I wanted to make a game about putting things in boxes as a metaphor to how we as humans have a tendency to make to generelyze everything in order to better understand it. I think this verion would be a good interpretation of this mini exercise, but for some reason I chose to make something else - I guess it seemed as a more fun approach to the topic.
+
 In my coding process I focused on the **"class"** syntax due to the requirements of this mini exercise although I could have made the task in other easier ways. As in Daniel Shiffmans coding challenge [#46.1](https://www.youtube.com/watch?v=hacZU523FyM) & [#46.2](https://www.youtube.com/watch?v=xTTuih7P0c0), he creates whole new **js**-files instead of using **class**. By choosing **classes** instead, I had a hard time figuring out how to make the objects (bullets and obstacles) collide with each other. And when they finally collided, all the obstacles would be removed.
 
 I wanted to import a "game over" function to the game, which seems possible, but now I have just leaved it out although it appears in the code.
