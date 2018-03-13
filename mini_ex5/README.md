@@ -19,7 +19,7 @@ Enjoy the mess!
 #
 #### Click to [Stop the invasion!](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex5/Excercises/empty-example/index.html)
 #
-#### Object Oriented: In progress
+#### Object Oriented:
 When you think of objects in the real world and compare them with similar objects in the digital world, some properties might be missing. (although in some cases it may have even more properties in the digital world due to augmentations.) The creater of the virtual objects selects between all thoose properties to make his/her own expression of the object. Even theese two words "his" and "her" indicates that there are only two genders (male and female) which is a common view on genders when it comes to online social media accounts/profiles, in opposition to the view on genders outside the social media. 
 
 In my game, I have chosen to use simple shapes which makes a great contrast to the real world with all it's complexity in general. Physics in games can be completely as you like (if you can code it), which also is much different in the real world, as the physics always stay the same. By not being done, my game messes with the whole idea about how games should work, unless you know that it is not on purpose. This element of failure does of course not only belong to the virtual world as failures happen all the time in the real world too.
