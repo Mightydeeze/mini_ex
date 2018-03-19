@@ -85,6 +85,7 @@ function textGenerate() {
     timer = 0;
     ranTime = Math.floor((Math.random()*20));
   }
+  // the text get executed
   text(who[w] + ' ' + does[d] + ending, windowWidth/2, 2*windowHeight/3+windowHeight/5);
 } // function textGenerate ends
 
