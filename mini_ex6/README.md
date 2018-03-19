@@ -17,7 +17,7 @@ The program has no audio - although I think it would be cool with a real babble!
 
 Enjoy!
 #
-#### Click to [listen to the babbling]()
+#### Click to [listen to the babbling](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex6/Excercises/empty-example/index.html)
 #
 #### Generativity:
 the "words" are not just words but the 50 most used english verbs worldwide, according to this website: https://www.ef.com/english-resources/english-vocabulary/top-50-verbs/. In my program, the verbs are pared with 7 pronouns in random compositions which means there are 350 different pairs as 7 times 50 is equal to 350 - a huge number if you ask me - which means that you have to be lucky to get the same combination of pronoun and verb.
