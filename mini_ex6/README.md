@@ -19,13 +19,15 @@ Enjoy!
 #
 #### Click to [listen to the babbling]()
 #
-#### Generativity (in progress):
-the "words" are not just words but the 50 most used english verbs, according to this website: https://www.ef.com/english-resources/english-vocabulary/top-50-verbs/. In my program, the verbs are pared with 7 pronouns in random compositions which means there are 350 different pairs as 7 times 50 is equal to 350 - a huge number if you ask me - which means that you have to be lucky to get the same combination of pronoun and verb.
+#### Generativity:
+the "words" are not just words but the 50 most used english verbs worldwide, according to this website: https://www.ef.com/english-resources/english-vocabulary/top-50-verbs/. In my program, the verbs are pared with 7 pronouns in random compositions which means there are 350 different pairs as 7 times 50 is equal to 350 - a huge number if you ask me - which means that you have to be lucky to get the same combination of pronoun and verb.
 
-to a certain extent where the words get overused and lose their meaning
+In terms of genarity, I as the author have chosen all the words for the program - well the world chose them - so the computer does not have the full responsability for the artwork. The full process is being automated and executed my the machine and can be run on multiple browsers, each in their own unique way without me lifting a finger. However, I have set the rules for the machine to follow and chosen the colors that I desired - It could have all been random instead. 
+
+When the pairs of words are getting generated so quickly - slow for the computer though - To a certain extent the words get overused and lose their meaning. Although it may seem like the computer is communicating and generating words as if it was thinking on them, the fact that computers can not use their intuition and respond to contexts (yet) becomes a challenge in generativity when the context gets very complex.
 
 #
-#### My coding process:
+#### My coding process (in progress):
 
 #
 ## My code:
