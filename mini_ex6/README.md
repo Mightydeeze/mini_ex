@@ -28,6 +28,9 @@ When the pairs of words are getting generated so quickly - slow for the computer
 
 #
 #### My coding process (in progress):
+I have used the **noise()** syntax to make the dynamics in the elipse like Daniel Shiffman did in his videos **13.2** https://www.youtube.com/watch?v=YcdldZ1E9gU & **13.3** https://www.youtube.com/watch?v=y7sgcFhk6ZM
+The main difference is that he used it to control the coordinates and I used it to control the size of the ellipse.
+
 
 #
 ## My code:
