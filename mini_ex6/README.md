@@ -24,13 +24,16 @@ the "words" are not just words but the 50 most used english verbs worldwide, acc
 
 In terms of genarity, I as the author have chosen all the words for the program - well the world chose them - so the computer does not have the full responsability for the artwork. The full process is being automated and executed my the machine and can be run on multiple browsers, each in their own unique way without me lifting a finger. However, I have set the rules for the machine to follow and chosen the colors that I desired - It could have all been random instead. 
 
-When the pairs of words are getting generated so quickly - slow for the computer though - To a certain extent the words get overused and lose their meaning. Although it may seem like the computer is communicating and generating words as if it was thinking on them, the fact that computers can not use their intuition and respond to contexts (yet) becomes a challenge in generativity when the context gets very complex.
+When the pairs of words are getting generated so quickly - slow for the computer though - To a certain extent the words get overused and lose their meaning. Although it may seem like the computer is communicating and generating words as if it was thinking on them, the fact that computers can not use their intuition and respond to contexts (yet) becomes a challenge in creativity when the context gets very complex. 
 
 #
 #### My coding process (in progress):
+Before I coded this program I had very few ideas of what I was going to make, bit I was sure that I wanted the program to seem as if it was a living organism of some kind. In this case it became a "babbling" mess of words.
+
 I have used the **noise()** syntax to make the dynamics in the elipse like Daniel Shiffman did in his videos **13.2** https://www.youtube.com/watch?v=YcdldZ1E9gU & **13.3** https://www.youtube.com/watch?v=y7sgcFhk6ZM
 The main difference is that he used it to control the coordinates and I used it to control the size of the ellipse.
 
+From there, it was just a matter of making an **array** with all the words and to set the rules for the right grammar with **if-statements**
 
 #
 ## My code:
