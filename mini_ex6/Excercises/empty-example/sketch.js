@@ -79,11 +79,11 @@ function textGenerate() {
   else{ending = '';}
 
   timer = timer +1;
-  if(timer == 80 - ranTime){
+  if(timer == 35 - ranTime){
     w = Math.floor((Math.random() * 7));
     d = Math.floor((Math.random()*50));
     timer = 0;
-    ranTime = Math.floor((Math.random()*60));
+    ranTime = Math.floor((Math.random()*20));
   }
   text(who[w] + ' ' + does[d] + ending, windowWidth/2, 2*windowHeight/3+windowHeight/5);
 } // function textGenerate ends
