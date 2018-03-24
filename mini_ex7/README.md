@@ -30,6 +30,13 @@ We tried to incorporate what we had learned of **JSON** files into the project a
 
 #### Individual Analysis: 
 
+## Our code:
+#### 
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/sketch.js
+  #
+ Best regards 
+#### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
+
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
 [3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
