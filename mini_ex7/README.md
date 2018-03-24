@@ -31,8 +31,12 @@ We tried to incorporate what we had learned of **JSON** files into the project a
 #### Individual Analysis: 
 
 ## Our code:
-#### 
+#### Index file:
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/index.html
+#### Sketch file:
 https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/sketch.js
+#### Statements (text and speech):
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/statements.js
   #
  Best regards 
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
