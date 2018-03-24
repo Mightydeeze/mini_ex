@@ -4,7 +4,8 @@ Go to mini_ex:
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
 [3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
-[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 6...
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),6,
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7)...
 ## babble_mouth by Frederik Ditlev Christensen
 #### Screenshot of mini_ex6:
 ![alt text](babble_mouth.png "It lives")
@@ -47,4 +48,5 @@ Go to mini_ex:
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
 [3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
-[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 6...
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),6,
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7)...
