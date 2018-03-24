@@ -5,7 +5,8 @@ Go to mini_ex:
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),3,
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),
-[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6)...
+[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7)...
 ## Time_is_patient by Frederik Ditlev Christensen
 #### Screenshot of mini_ex3:
 ![alt text](Time.png "Are you watching closely?")
@@ -48,4 +49,5 @@ Go to mini_ex:
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),3,
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),
-[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6)...
+[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7)...
