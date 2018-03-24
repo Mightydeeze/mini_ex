@@ -7,7 +7,7 @@
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6), 7...
 ## Y0U_L16HT_UP_TH3_R00M By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 #### Screenshot of mini_ex1:
-![alt text](mini_ex7.png "Let me brighten your mood")
+![alt text](mini_ex7.1.png "Let me brighten your mood")
 #
 #### What is the Program?
 
