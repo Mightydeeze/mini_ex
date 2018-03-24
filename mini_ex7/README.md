@@ -20,7 +20,8 @@ Should you keep clicking rapidly, the program will eventually “crash,” leavi
 #
 #### Click to [Get motivated:](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex7/Excercises/empty-example/index.html)
 #
-Code Collaboration
+#### Code Collaboration:
+
 This project was the collaborative effort of [Alexander Svanholm](https://github.com/ubiquitousman/mini-ex), [Anne Gregersen](https://github.com/AnnesFlashBack/Mini-Exercises), and [Frederik Ditlev](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main). We spent a good amount of time spitballing ideas and thinking of possible angles of attack in the beginning of the process, ending on the idea of a bot reading compliments to the user. The sinister turn, as well as the error message, the background graphics, and the music all came organically as we worked and thought of different ideas we could implement. 
 
 The moving graphics was a last minute addition. We didn’t much like the static, flat black of the background and wanted to incorporate something more visually interesting to stimulate the viewing experience. We knew it couldn’t be too distracting since that would take away from the main focus that was the text. 
