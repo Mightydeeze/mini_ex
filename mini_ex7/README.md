@@ -1,5 +1,14 @@
 #  mini_ex7:
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
+[2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
+[3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
+[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6), 7...
 ## Y0U_L16HT_UP_TH3_R00M By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
+#### Screenshot of mini_ex1:
+![alt text](mini_ex7.png "Let me brighten your mood")
+#
 #### What is the Program?
 
 **The following text is not complete**
@@ -19,3 +28,12 @@ This project was the collaborative effort of [Alexander Svanholm](https://github
 The moving graphics was a last minute addition. We didn’t much like the static, flat black of the background and wanted to incorporate something more visually interesting to stimulate the viewing experience. We knew it couldn’t be too distracting since that would take away from the main focus that was the text. 
 
 We tried to incorporate what we had learned of **JSON** files into the project as well. Since we had the large arrays of text it seemed like an ideal choice, but we simply couldn’t get it to work. At the time, we were nearing the completion of the program and changing everything up so that the **JSON** file might work seemed like to big of an endeavor. Instead, we moved the text arrays into their own .js file so the code didn’t look so chaotic. 
+
+#### Individual Analysis: 
+
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
+[2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
+[3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
+[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6), 7...
