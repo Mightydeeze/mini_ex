@@ -1,5 +1,5 @@
 #  mini_ex7:
-## Y0U_L16HT_UP_TH3_R00M  
+## Y0U_L16HT_UP_TH3_R00M By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 #### What is the Program?
 
 **The following text is not complete**
