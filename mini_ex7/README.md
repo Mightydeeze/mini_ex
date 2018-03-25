@@ -29,9 +29,8 @@ The moving graphics was a last minute addition. We didn’t much like the static
 
 We tried to incorporate what we had learned of **JSON** files into the project as well. Since we had the large arrays of text it seemed like an ideal choice, but we simply couldn’t get it to work. At the time, we were nearing the completion of the program and changing everything up so that the **JSON** file might work seemed like to big of an endeavor. Instead, we moved the text arrays into their own .js file so the code didn’t look so chaotic. 
 
-#### Individual Analysis: 
-**The following text is missing**
-In the text **"Vocable Code"** 
+#### Individual Analysis: (In progress)
+In the article **"Vocable Code"** by Cox, Geoff and McLean (2013), it is proposed that a computer doesn't fully understand the symbols it is processing and thereby it won't be able to have the same reasoning as humans have. Computers might be able to create sentences and "speak" so to say, but in the long run computers can't keep up with humans as they constantly needs information on what to do next as they rely purely on logic and can't use feelings to figure out which action to take.
 
 ## Our code:
 #### Index file:
@@ -41,8 +40,12 @@ https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/emp
 #### Statements (text and speech):
 https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/statements.js
   #
- Best regards 
+#### References:
+Cox, Geoff and McLean, Alex. Speaking Code. MIT Press, 2013. 17-38.
+#
+Best regards 
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
+
 
 Go to mini_ex:
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
