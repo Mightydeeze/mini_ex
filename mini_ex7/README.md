@@ -31,6 +31,7 @@ We tried to incorporate what we had learned of **JSON** files into the project a
 
 #### Individual Analysis: 
 **The following text is missing**
+In the text **"Vocable Code"** 
 
 ## Our code:
 #### Index file:
