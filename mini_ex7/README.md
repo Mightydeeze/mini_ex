@@ -32,9 +32,9 @@ We tried to incorporate what we had learned of **JSON** files into the project a
 #### Individual Analysis: (In progress)
 In the article **"Vocable Code"** by Cox, Geoff and McLean (2013), it is proposed that a computer doesn't fully understand the symbols it is processing and thereby it won't be able to have the same reasoning as humans have: 
 
-"John Searle refutes the Turing test (...) His observation is that the syntactical, abstract or formal content of a computer program is not the same as semantic or mental content associated with the human mind. The cognitive process of the human mind can be simulated but not duplicated as such."
+>"John Searle refutes the Turing test (...) His observation is that the syntactical, abstract or formal content of a computer program is not the same as semantic or mental content associated with the human mind. The cognitive process of the human mind can be simulated but not duplicated as such."
 
-Computers might be able to create sentences and "speak" so to say, but in the long run computers can't keep up with humans as they constantly needs information on what to do next as they rely purely on logic and can't use feelings to figure out which action to take.
+Computers might be able to create sentences and "speak" so to say, but in the long run computers can't keep up with humans as they constantly needs information on what to do next as they rely purely on logic and can't use feelings to figure out which action to take. In our program, the computer imitates a human as it in a soothing manner speaks and gives compliments in order to make user feel inlightment and joy. It also has the opposite which kind of gives the program some kind of humanlike characteristics. However, the program is scripted in such a way that it depends on the users actions in a very limited sense - the behavior of the humanlike character can only get more rude as the program progresses - and the user sort of chooses when the program is "allowed" to act.
 
 
 
