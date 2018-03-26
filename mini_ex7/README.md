@@ -29,7 +29,7 @@ The moving graphics was a last minute addition. We didn’t much like the static
 
 We tried to incorporate what we had learned of **JSON** files into the project as well. Since we had the large arrays of text it seemed like an ideal choice, but we simply couldn’t get it to work. At the time, we were nearing the completion of the program and changing everything up so that the **JSON** file might work seemed like to big of an endeavor. Instead, we moved the text arrays into their own .js file so the code didn’t look so chaotic. 
 
-#### Individual Analysis: (In progress)
+#### Individual Analysis:
 In the article **"Vocable Code"** by Cox, Geoff and McLean (2013), it is proposed that a computer doesn't fully understand the symbols it is processing and thereby it won't be able to have the same reasoning as humans have: 
 
 >"John Searle refutes the Turing test (...) His observation is that the syntactical, abstract or formal content of a computer program is not the same as semantic or mental content associated with the human mind. The cognitive process of the human mind can be simulated but not duplicated as such."
@@ -38,7 +38,7 @@ Computers might be able to create sentences and "speak" so to say, but in the lo
 
 Other than this, the program won't make distictions between users and will have no realtions to them as it treats them all the same - if they do the same actions - and it will continue to do so every time the users (re)start the program.
 
-
+just like our attempt to "simulate" a human, it has through many years been a common wish among developers to construct proper artificial intelligence and It still is a wish to this day - just imagine the revolution of thinking machines. I personally think that it's a scary thing to think about. 
 
 ## Our code:
 #### Index file:
