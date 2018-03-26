@@ -30,7 +30,13 @@ The moving graphics was a last minute addition. We didn’t much like the static
 We tried to incorporate what we had learned of **JSON** files into the project as well. Since we had the large arrays of text it seemed like an ideal choice, but we simply couldn’t get it to work. At the time, we were nearing the completion of the program and changing everything up so that the **JSON** file might work seemed like to big of an endeavor. Instead, we moved the text arrays into their own .js file so the code didn’t look so chaotic. 
 
 #### Individual Analysis: (In progress)
-In the article **"Vocable Code"** by Cox, Geoff and McLean (2013), it is proposed that a computer doesn't fully understand the symbols it is processing and thereby it won't be able to have the same reasoning as humans have. Computers might be able to create sentences and "speak" so to say, but in the long run computers can't keep up with humans as they constantly needs information on what to do next as they rely purely on logic and can't use feelings to figure out which action to take.
+In the article **"Vocable Code"** by Cox, Geoff and McLean (2013), it is proposed that a computer doesn't fully understand the symbols it is processing and thereby it won't be able to have the same reasoning as humans have: 
+
+"John Searle refutes the Turing test (...) His observation is that the syntactical, abstract or formal content of a computer program is not the same as semantic or mental content associated with the human mind. The cognitive process of the human mind can be simulated but not duplicated as such."
+
+Computers might be able to create sentences and "speak" so to say, but in the long run computers can't keep up with humans as they constantly needs information on what to do next as they rely purely on logic and can't use feelings to figure out which action to take.
+
+
 
 ## Our code:
 #### Index file:
