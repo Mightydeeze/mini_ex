@@ -38,6 +38,8 @@ Computers might be able to create sentences and "speak" so to say, but in the lo
 
 Other than this, the program won't make distictions between users and will have no realtions to them as it treats them all the same - if they do the same actions - and it will continue to do so every time the users (re)start the program.
 
+
+
 ## Our code:
 #### Index file:
 https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex7/Excercises/empty-example/index.html
