@@ -38,7 +38,7 @@ Computers might be able to create sentences and "speak" so to say, but in the lo
 
 Other than this, the program won't make distictions between users and will have no realations to them as it treats them all the same - if they do the same actions - and it will continue to do so every time the users (re)start the program.
 
-just like our attempt to "simulate" a human, it has through many years been a common wish among developers to construct proper artificial intelligence and It still is a wish to this day - just imagine the revolution of thinking machines. I personally think that it's a scary thing to think about. 
+just like our attempt to "simulate" a human, it has through many years been a common wish among developers to construct proper artificial intelligence and It still is a wish to this day - just imagine the revolution of thinking machines. In my opinion it's a  bit scary to think about. 
 
 ## Our code:
 #### Index file:
