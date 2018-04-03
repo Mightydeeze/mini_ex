@@ -36,7 +36,7 @@ In the article **"Vocable Code"** by Cox, Geoff and McLean (2013), it is propose
 
 Computers might be able to create sentences and "speak" so to say, but in the long run computers can't keep up with humans as they constantly need information on what to do next as they rely purely on logic and can't use feelings to figure out which action to take. In our program, the computer imitates a human as it in a soothing manner speaks and gives compliments in order to make user feel inlightment and joy. It also has the opposite which kind of gives the program some kind of humanlike characteristics. However, the program is scripted in such a way that it depends on the users actions in a very limited sense - the behavior of the humanlike character can only get more rude as the program progresses - and the user sort of chooses when the program is "allowed" to act.
 
-Other than this, the program won't make distictions between users and will have no realtions to them as it treats them all the same - if they do the same actions - and it will continue to do so every time the users (re)start the program.
+Other than this, the program won't make distictions between users and will have no realations to them as it treats them all the same - if they do the same actions - and it will continue to do so every time the users (re)start the program.
 
 just like our attempt to "simulate" a human, it has through many years been a common wish among developers to construct proper artificial intelligence and It still is a wish to this day - just imagine the revolution of thinking machines. I personally think that it's a scary thing to think about. 
 
