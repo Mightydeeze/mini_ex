@@ -31,6 +31,10 @@ We encountered a lot of frustrations with this exercise, especially because we w
 In the end, be it either from the difficulty of working with code we’d never seen before, or from the frustrations we experienced from issues we didn’t understand, we ended up making a rather simple program. It could have been more complex, certainly, but given our lack of knowledge with our chosen tools, this is close to the best we could do.
 
 #### Individual Analysis: Not done yet!
+(individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?
+
+
+(individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
 
 
 
