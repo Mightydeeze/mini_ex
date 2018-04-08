@@ -21,7 +21,7 @@ Besides finding GIFs based on keywords, we wanted the user to interact even more
 #### Screenshot of mini_ex8:
 ![alt text](mini_ex8.PNG "Let’s hunt down some giiiiiiiifs")
 
-#### Click to [get GIFted:](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex8/Excercises/empty-example/index.html)
+#### Click to [get GIFted:](https://cdn.rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex8/Excercises/empty-example/index.html)
 #
 #### Code Collaboration:
 
