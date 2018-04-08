@@ -5,7 +5,8 @@ Go to mini_ex:
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
-[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7)...
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7),
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
 ## Alternative Abstract Solarsystem by Frederik Ditlev Christensen
 #### Screenshot of mini_ex1:
 ![alt text](mini_ex1.3.png "Alternative Abstract Solarsystem")
@@ -48,4 +49,5 @@ Go to mini_ex:
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
-[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7)...
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7),
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
