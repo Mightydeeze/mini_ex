@@ -7,8 +7,7 @@ Go to mini_ex:
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
 [7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7), 8...
-# The GIFter
-By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
+# The GIFter By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 
 ### What is the Program?
 
