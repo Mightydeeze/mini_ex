@@ -1,3 +1,12 @@
+#  mini_ex8:
+Go to mini_ex:
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
+[2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
+[3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
+[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7), 8...
 # The GIFter
 By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 
@@ -12,7 +21,7 @@ Besides finding GIFs based on keywords, we wanted the user to interact even more
 #### Screenshot of mini_ex8:
 ![alt text](mini_ex8.PNG "Let’s hunt down some giiiiiiiifs")
 
-#### Click to [get GIFted:](https://rawgit.com/ubiquitousman/mini-ex/master/mini_ex8/p5/the_gifter/index.html)
+#### Click to [get GIFted:](https://rawgit.com/Mightydeeze/mini_ex/mini_ex_main/mini_ex8/Excercises/empty-example/index.html)
 #
 #### Code Collaboration:
 
@@ -27,12 +36,20 @@ In the end, be it either from the difficulty of working with code we’d never s
 
 ## Our code:
 #### Index file:
-https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/index.html
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex8/Excercises/empty-example/index.html
 #### Sketch file:
-https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/sketch.js
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex8/Excercises/empty-example/sketch.js
 #### Styling (CSS):
-https://github.com/ubiquitousman/mini-ex/blob/master/mini_ex8/p5/the_gifter/style.css
+https://github.com/Mightydeeze/mini_ex/blob/mini_ex_main/mini_ex8/Excercises/empty-example/style.css
   #
  Best regards
 #### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 
+Go to mini_ex:
+[1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
+[2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
+[3](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex3),
+[4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
+[5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
+[6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
+[7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7), 8...
