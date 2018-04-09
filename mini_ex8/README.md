@@ -1,4 +1,4 @@
-#  mini_ex8: Not done yet!
+#  mini_ex8: 
 Go to mini_ex:
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
@@ -30,14 +30,14 @@ This project was the collaborative effort of [Alexander Svanholm](https://github
 We encountered a lot of frustrations with this exercise, especially because we were making use of a lot of HTML and CSS code; something the group didn’t have a lot of collective experience with. This meant that some simple errors were very hard to fix. Most things would take a really long time to understand, and on top of everything we were also working with APIs - something that is not inherently easy either.
 In the end, be it either from the difficulty of working with code we’d never seen before, or from the frustrations we experienced from issues we didn’t understand, we ended up making a rather simple program. It could have been more complex, certainly, but given our lack of knowledge with our chosen tools, this is close to the best we could do.
 
-#### Individual Analysis: Not done yet!
+#### Individual Analysis: 
 During the making of this project we made use of a rather huge quantity of **CSS** along with **HTML**. Exactly how theese "languages" work is not anything I can speak much of. Luckily for me, the handling of the data provided by the API is taken care of in the **Javascript** in the **Sketch.js** which makes much more sense to me. 
 
 The type of data that is the most common for dealing with APIs is **JSON**. This format is readable for most coding programs, including Atom. So when we make a request with a keyword to the API, it will search the database provided by the offering company/website. Then the API fetches the items (in this case a total of hundred 100) from the database and sort them as objects in the **JSON** file for us to use.
 
-(individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
-
-If we spent some more time on this exercise, 
+If we had some more time with this exercise, it could be interesting to investigate further into the opportunities of using the API as memory - a bit like cookies and the subject of data capture.
+Questions that could be answered:
+Is it possible to store data on an API? Is there another alternative that is better? Can we make our own API as our own kind of cloud?
 
 ## Our code:
 #### Index file:
