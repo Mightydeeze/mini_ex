@@ -1,4 +1,4 @@
-#  mini_ex8:
+#  mini_ex8: Not done yet!
 Go to mini_ex:
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
 [2](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex2),
@@ -31,12 +31,13 @@ We encountered a lot of frustrations with this exercise, especially because we w
 In the end, be it either from the difficulty of working with code we’d never seen before, or from the frustrations we experienced from issues we didn’t understand, we ended up making a rather simple program. It could have been more complex, certainly, but given our lack of knowledge with our chosen tools, this is close to the best we could do.
 
 #### Individual Analysis: Not done yet!
-(individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?
+During the making of this project we made use of a rather huge quantity of **CSS** along with **HTML**. Exactly how theese "languages" work is not anything I can speak much of. Luckily for me, the handling of the data provided by the API is taken care of in the **Javascript** in the **Sketch.js** which makes much more sense to me. 
 
+The type of data that is the most common for dealing with APIs is **JSON**. This format is readable for most coding programs, including Atom. So when we make a request with a keyword to the API, it will search the database provided by the offering company/website. Then the API fetches the items (in this case a total of hundred 100) from the database and sort them as objects in the **JSON** file for us to use.
 
 (individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
 
-
+If we spent some more time on this exercise, 
 
 ## Our code:
 #### Index file:
