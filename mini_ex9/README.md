@@ -26,6 +26,10 @@ With this program, a challenge we could encounter is the difficulty in communica
 
 Revisit your previous mini exercises and select the most technically complex one. Draw an individual flow chart to present the program
 
+
+![alt text](Mini_ex9.png "Gifter")
+
+
 Individual: How is this flow chart different from the one that you had in  (in terms of the role of a flow chart)?
 
 Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
