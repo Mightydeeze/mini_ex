@@ -26,6 +26,7 @@ With this program, a challenge we could encounter is the difficulty in communica
 
 Revisit your previous mini exercises and select the most technically complex one. Draw an individual flow chart to present the program
 
+I have chosen to make a flowchart to describe miniEx_8 (the one concerning API's)
 
 ![alt text](Mini_ex9.png "Gifter")
 
