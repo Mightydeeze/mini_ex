@@ -22,18 +22,14 @@ With this program, a challenge we could encounter is the difficulty in communica
 ![alt text](flowchart_sidescroller.png "DRIVE")
 
 #### Individual Analysis:
-**Insert text here**
 
-Revisit your previous mini exercises and select the most technically complex one. Draw an individual flow chart to present the program
-
-I have chosen to make a flowchart to describe miniEx_8 (the one concerning API's)
+I have chosen to make a flowchart to describe miniEx_8 (the one concerning API's), as it in my opinion is the most complex exercise we have done so far. 
 
 ![alt text](Mini_ex9.png "Gifter")
 
+In relation to the other flowcharts, this one is more technical as it describes some of the processes that happens in the the coding. In addiion to this, the flowchart is made after the program was made. The others were made during the thinking phase (brainstorming) of two games that don't exist yet.
 
-Individual: How is this flow chart different from the one that you had in  (in terms of the role of a flow chart)?
-
-Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+When you lookat flowcharts in the perspective of algorithms, it's clear to say that the logic and the way of thinking in relation to algorithms gets reflected in the flowcharts. In this way of thinking, the algorithms can be seen as a series of steps to be executed in certain cases under the right conditions. Because of this, it's important to know the current state in order to know which action to manage. In a flow chart every step along with the states are written down and sort of getting layed out as a path to follow (similar to a recipe). As computational algorithms operate on logic an usually happens very fast and in huge numbers, it can sometimes be a good idea to map out some of the steps in groups to make it more manageable to humans. And flowcharts are an excellent example of doing so.
 
 ## Our team:
 #### Alexander:
