@@ -6,7 +6,8 @@ Go to mini_ex:
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6), 7,
-[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8),
+[9](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex9)...
 ## Y0U_L16HT_UP_TH3_R00M By Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 #
 #### What is the Program?
@@ -63,4 +64,5 @@ Go to mini_ex:
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5), 
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6), 7,
-[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8),
+[9](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex9)...
