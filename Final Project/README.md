@@ -18,6 +18,8 @@ Due to Chrome's recent update, sounds don't work in any programs through rawgit.
 
 https://www.youtube.com/watch?v=TAtrERDvTkA
 
+Best regards 
+#### Alexander Svanholm, Anne Gregersen & Frederik Ditlev
 
 Go to mini_ex:
 [1](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex1),
