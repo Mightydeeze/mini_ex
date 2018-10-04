@@ -6,7 +6,8 @@ Go to mini_ex:
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
 [7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7),
-[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8),
+[9](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex9)......
 ## Color_canon 1.0 by Frederik Ditlev Christensen
 #### Screenshot of mini_ex2:
 ![Github logo](screen_shot.png "canon balls")
@@ -38,4 +39,5 @@ Go to mini_ex:
 [5](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex5),
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
 [7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7),
-[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8),
+[9](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex9)......
