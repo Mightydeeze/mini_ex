@@ -6,7 +6,8 @@ Go to mini_ex:
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),5, 
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
 [7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7),
-[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8),
+[9](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex9)...
 ## shape_invaders by Frederik Ditlev Christensen
 #### Screenshot of mini_ex5:
 ![alt text](shape_invaders.png "Invasion of the shapes!")
@@ -50,4 +51,5 @@ Go to mini_ex:
 [4](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex4),5,
 [6](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex6),
 [7](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex7),
-[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8)...
+[8](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex8),
+[9](https://github.com/Mightydeeze/mini_ex/tree/mini_ex_main/mini_ex9)...
